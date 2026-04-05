@@ -13,5 +13,7 @@ Analyzed cancellation behavior in Pakistan’s cash-on-delivery (COD) market to 
 - Discounts influence cancellation behavior  
 
 ## Recommendation
-- Introduce confirmation for high-risk orders  
-- Optimize pricing/discount strategies  
+- Introduce confirmation calls for high-risk orders  
+- Optimize pricing/discount strategies
+- Introduce payment installation options
+- Offer discounts on digital payments to secure conversion and reduce risk of order cancellation
