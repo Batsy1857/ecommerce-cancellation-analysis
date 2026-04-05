@@ -3,7 +3,7 @@
 ## Overview
 Analyzed large-scale e-commerce transaction data (584K+ records, refined to 213K+) to uncover key drivers of order cancellations in Pakistan’s cash-on-delivery (COD) market.
 
-<img src="assets/ecommerce-price-insight.png" width="700"/>
+<img src="https://raw.githubusercontent.com/Batsy1857/Sadiq-Bata-Portfolio/main/assets/ecommerce-price-insight.png" width="700"/>
 
 ## 🔍 Key Insight
 Higher-value orders show significantly higher cancellation risk, making them the most critical segment for intervention.
